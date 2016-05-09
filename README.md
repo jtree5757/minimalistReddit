@@ -8,6 +8,9 @@ Sidebar hidden
 ![Screenshot of Minimalist Reddit with Sidebar](https://github.com/jtree5757/minimalistReddit/blob/master/Screenshots/Reddit-Minimal-Sidebar.png)
 Sidebar visible
 
+### Just a little Side note
+This works best if you disable "allow subreddits to show me custom themes" in the preferences section of your user profile on Reddit. It's towards the bottom next to "display options". But this will make every sub look the same. 
+
 #Instructions
 This utilizes a chrome extension for injecting the CSS and JS. Their are probably similar extensions for other browsers if you don't use chrome. There are two methods to work with - 1. cut and paste or 2. JSON upload
 
@@ -20,7 +23,7 @@ This utilizes a chrome extension for injecting the CSS and JS. Their are probabl
 
 4. Click "Save" and enjoy
 
-#OR
+### OR
 
 ## JSON
 2. Click the settings icon in the extension's code editor window
