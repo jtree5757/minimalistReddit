@@ -1,15 +1,29 @@
 # minimalistReddit
-Custom Reddit CSS and JS
+Custom Reddit CSS and JS. I got tired of the clutter (yea i said it) so decided to make some changes for my own experience. Just sharing it with anyone else that may want it. This was styled for a 15" Macbook Pro running Chrome v50, but it should look just fine on other laptop/desktop screen sizes.
+
+### And Just a little Side note
+This works best if you disable "allow subreddits to show me custom themes" in the preferences section of your user profile on Reddit. It's towards the bottom next to "display options". But this will make every sub look the same. Shouldn't be too hard to get it to play nicely with custom themes enabled though.
 
 # Screenshots
 ![Screenshot of Minimalist Reddit](https://github.com/jtree5757/minimalistReddit/blob/master/Screenshots/Reddit-Minimal.png)
-Sidebar hidden
+### Sidebar hidden
+
+---
 
 ![Screenshot of Minimalist Reddit with Sidebar](https://github.com/jtree5757/minimalistReddit/blob/master/Screenshots/Reddit-Minimal-Sidebar.png)
-Sidebar visible
+### Sidebar visible
 
-### Just a little Side note
-This works best if you disable "allow subreddits to show me custom themes" in the preferences section of your user profile on Reddit. It's towards the bottom next to "display options". But this will make every sub look the same. 
+---
+
+![/r/videos](https://github.com/jtree5757/minimalistReddit/blob/master/Screenshots/Reddit-Minimal-rVideos.png)
+### /r/videos
+
+---
+
+![comments page](https://github.com/jtree5757/minimalistReddit/blob/master/Screenshots/Reddit-Minimal-Comments.png)
+### Comments Page
+
+---
 
 #Instructions
 This utilizes a chrome extension for injecting the CSS and JS. Their are probably similar extensions for other browsers if you don't use chrome. There are two methods to work with - 1. cut and paste or 2. JSON upload
