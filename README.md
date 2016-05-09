@@ -1,4 +1,4 @@
-# minimalistReddit
+# Minimalist Reddit Theme
 Custom Reddit CSS and JS. I got tired of the clutter (yea i said it) so decided to make some changes for my own experience. Just sharing it with anyone else that may want it. This was styled for a 15" Macbook Pro running Chrome v50, but it should look just fine on other laptop/desktop screen sizes.
 
 ### And Just a little Side note
