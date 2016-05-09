@@ -2,9 +2,9 @@
 Custom Reddit CSS and JS
 
 # Screenshots
-![Screenshot of Minimalist Reddit](http://imgur.com/ifs1jaG)
+![Screenshot of Minimalist Reddit](https://github.com/jtree5757/minimalistReddit/blob/master/Screenshots/Reddit-Minimal.png)
 
-![Screenshot of Minimalist Reddit with Sidebar](http://imgur.com/hq4PcGI)
+![Screenshot of Minimalist Reddit with Sidebar](https://github.com/jtree5757/minimalistReddit/blob/master/Screenshots/Reddit-Minimal-Sidebar.png)
 
 #Instructions
 This utilizes a chrome extension for injecting the CSS and JS. Their are probably similar extensions for other browsers if you don't use chrome. There are two methods to work with - 1. cut and paste or 2. JSON upload
