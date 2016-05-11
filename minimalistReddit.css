@@ -58,7 +58,6 @@ body {
 .link.promotedlink.promoted,
 .link.promotedlink.external,
 .trending-subreddits,
-.tagline time,
 .organic-listing,
 .sr-list,
 #sr-more-link,
@@ -235,4 +234,8 @@ body.with-listing-chooser #header .tabmenu {
 
 .arrow.down:hover {
     background-position: -21px -865px;
+}
+
+.domain {
+    display: inline-block;
 }
