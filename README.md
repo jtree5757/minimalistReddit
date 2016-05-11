@@ -1,6 +1,8 @@
 # Minimalist Reddit Theme
 Custom Reddit CSS and JS. I got tired of the clutter (yea i said it) so decided to make some changes for my own experience. Just sharing it with anyone else that may want it. This was styled for a 15" Macbook Pro running Chrome v50, but it should look just fine on other laptop/desktop screen sizes.
 
+*This was coded quickly so it's not organized at all. Sorry for the spaghetti, but it works :)*
+
 ### And Just a little Side note
 This works best if you disable "allow subreddits to show me custom themes" in the preferences section of your user profile on Reddit. It's towards the bottom next to "display options". But this will make every sub look the same. Shouldn't be too hard to get it to play nicely with custom themes enabled though.
 
